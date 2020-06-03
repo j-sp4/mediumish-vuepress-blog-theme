@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Docs
   create: all
-  match: "**/*"
+  match: docs/docs/*.md
 - type: directory
   path: docs/_posts
   label: Posts
